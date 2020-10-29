@@ -1,33 +1,43 @@
+{
+    "myBudget":
 [
         {
             "title": "Eat out",
-            "budget": 25
+            "value": 25,
+            "color": "#ffcd56"
         },
         {
             "title": "Rent",
-            "budget": 375
+            "value": 375,
+            "color": "#ff6384"
         },
         {
             "title": "Grocery",
-            "budget": 110
+            "value": 110,
+            "color": "#36a2eb"
         }
         ,
         {
             "title": "Vacation",
-            "budget": 1100
+            "value": 1100,
+            "color": "#fd6b19"
         },
         {
             "title": "Insurance",
-            "budget": 250
+            "value": 250,
+            "color": "#00580a"
         }
         ,
         {
             "title": "Utilities",
-            "budget": 700
+            "value": 700,
+            "color": "#de03f9"
         }
         ,
         {
             "title": "Transportation",
-            "budget": 75
+            "value": 75,
+            "color": "#00ffc5'"
         }
     ]
+}
